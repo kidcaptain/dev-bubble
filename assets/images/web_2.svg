@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1360.314" height="681.955" viewBox="0 0 1360.314 681.955">
+  <g id="Groupe_77" data-name="Groupe 77" transform="translate(4405 2992.955) rotate(-180)">
+    <rect id="Rectangle_48" data-name="Rectangle 48" width="584" height="98" rx="49" transform="matrix(0.883, -0.469, 0.469, 0.883, 3711.686, 2906.426)" fill="#fff"/>
+    <path id="Polygone_11" data-name="Polygone 11" d="M90.2,44.478a27,27,0,0,1,47.61,0L206.73,173.259A27,27,0,0,1,182.925,213H45.075a27,27,0,0,1-23.8-39.741Z" transform="translate(4405 2534) rotate(90)" fill="#fff"/>
+    <rect id="Rectangle_50" data-name="Rectangle 50" width="584" height="98" rx="49" transform="matrix(0.883, 0.469, -0.469, 0.883, 3772.694, 2311)" fill="#fff"/>
+  </g>
+  <g id="Groupe_82" data-name="Groupe 82" transform="translate(-3044.686 -2311)">
+    <rect id="Rectangle_48-2" data-name="Rectangle 48" width="584" height="98" rx="49" transform="matrix(0.883, -0.469, 0.469, 0.883, 3711.686, 2906.426)" fill="#fff"/>
+    <path id="Polygone_11-2" data-name="Polygone 11" d="M90.2,44.478a27,27,0,0,1,47.61,0L206.73,173.259A27,27,0,0,1,182.925,213H45.075a27,27,0,0,1-23.8-39.741Z" transform="translate(4405 2534) rotate(90)" fill="#fff"/>
+    <rect id="Rectangle_50-2" data-name="Rectangle 50" width="584" height="98" rx="49" transform="matrix(0.883, 0.469, -0.469, 0.883, 3772.694, 2311)" fill="#fff"/>
+  </g>
+  <circle id="Ellipse_3" data-name="Ellipse 3" cx="45" cy="45" r="45" transform="translate(488 296)" fill="#fff"/>
+  <circle id="Ellipse_4" data-name="Ellipse 4" cx="45" cy="45" r="45" transform="translate(648 296)" fill="#fff"/>
+  <circle id="Ellipse_5" data-name="Ellipse 5" cx="45" cy="45" r="45" transform="translate(808 296)" fill="#fff"/>
+</svg>
